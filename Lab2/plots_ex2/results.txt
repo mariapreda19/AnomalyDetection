@@ -1,0 +1,16 @@
+Results ADk = 3
+Train balanced acc: 0.961
+Test balanced acc:  1.000
+
+k = 5
+Train balanced acc: 0.988
+Test balanced acc:  1.000
+
+k = 10
+Train balanced acc: 0.988
+Test balanced acc:  1.000
+
+k = 20
+Train balanced acc: 0.988
+Test balanced acc:  1.000
+
